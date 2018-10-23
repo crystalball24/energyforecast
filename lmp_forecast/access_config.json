@@ -1,4 +1,4 @@
 {
   "address": "0.0.0.0",
-  "load_folder": "BacktestData/MISO/DART/G9"
+  "bt_folder": "BacktestData/MISO/DART/G9"
 }
