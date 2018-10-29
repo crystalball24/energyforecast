@@ -1,4 +1,5 @@
 {
   "address": "0.0.0.0",
-  "bt_folder": "BacktestData/MISO/DART/G9"
+  "backtest_folder": "BacktestData/MISO/DART/G9",
+  "daily_lmp_folder": "DailyLMP/MISO/G9"
 }
